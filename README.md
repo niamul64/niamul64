@@ -1,3 +1,9 @@
+# Niamul Hasan
+
+👋 Hi there, My name is Niamul Hasan from Dhaka, Bangladesh. I am 22 years old. I'm a Computer Programmer, Website Developer, Graphics Designer, System Analyst. I have profound knowledge in Image Processing, Machine Learning, and now practicing Deep Learning and NLP. Currently, I am pursuing my Undergraduate Degree in CSE from University of Asia Pacific,Bangladesh. Love to play with data and develop Machine Learning models to help make data driven solutions.
+
+
+
 ### Hi there 👋
 
 <!--
