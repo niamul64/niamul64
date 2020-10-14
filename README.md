@@ -1,6 +1,6 @@
 # Niamul Hasan
 #
-<a target="_blank" href="https://shunjid.github.io"><img width="550" align="right" src="https://w7.pngwing.com/pngs/831/484/png-transparent-person-working-on-computer-screenshot-icon-office-work-text-computer-program-happy-birthday-vector-images.png">
+<a target="_blank" href="https://shunjid.github.io"><img width="100%"  src="https://www.mastersoftwaresolutions.com/wp-content/uploads/2014/08/bnr-1.png">
 </a>
 
 # About Me
