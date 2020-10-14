@@ -1,6 +1,7 @@
 # Niamul Hasan
 #
-<a target="_blank" href="https://shunjid.github.io"><img width="550" align="right" src="https://careers.eclerx.com/images/01.jpg"></a>
+<a target="_blank" href="https://shunjid.github.io"><img width="550" align="right" src="https://w7.pngwing.com/pngs/831/484/png-transparent-person-working-on-computer-screenshot-icon-office-work-text-computer-program-happy-birthday-vector-images.png">
+</a>
 
 # About Me
 
