@@ -2,10 +2,14 @@
 </a>
 
 # Niamul Hasan
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/niamul-hassan-b74489118/)
+[![Website](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=html&logoColor=ffffff)](https://niamul64.github.io/)
+
+[![Facebook](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mn.hr.37/)
 
 #### About Me
 
-👋 Hi there, My name is Niamul Hasan from Dhaka, Bangladesh. I am 22 years old. I'm a Computer Programmer, Website Developer, Graphics Designer, System Analyst. I have profound knowledge in Problem Solving, system analysis and design and now practicing Machine Learning, Deep Learning and NLP. Currently, I am pursuing my Undergraduate Degree in CSE from University of Asia Pacific,Bangladesh. Love to work hard to gather new knowledge.
+👋 Hi there, My name is Niamul Hasan from Dhaka, Bangladesh. I am 22 years old. I'm a Computer Programmer, Website Developer, Graphics Designer, System Analyst. I have profound knowledge in Problem Solving, system analysis and designing. Now practicing Machine Learning, Deep Learning and NLP. Currently, I am pursuing my Undergraduate Degree in CSE from University of Asia Pacific, Bangladesh. Love to work hard to gather new knowledge.
 
 
 
