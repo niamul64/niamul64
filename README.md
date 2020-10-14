@@ -20,7 +20,7 @@
  [Front-End Web UI Frameworks and Tools: Bootstrap 4 by The Hong University Of Science And Technology](https://www.coursera.org/account/accomplishments/certificate/YHW6MME3UEZ3)
 
 
- [HTML, CSS, and Javascript for Web Developers by Johns Hopkins University](hhttps://www.coursera.org/account/accomplishments/certificate/F3QEHCSR7AXD)
+ [HTML, CSS, and Javascript for Web Developers by Johns Hopkins University](https://www.coursera.org/account/accomplishments/certificate/F3QEHCSR7AXD)
 
 ##
 <!-- theme=radical :: " dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula"
