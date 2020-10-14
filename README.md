@@ -1,6 +1,6 @@
 # Niamul Hasan
 #
-<a target="_blank" href="https://shunjid.github.io"><img width="500" align="right" src="https://www.mastersoftwaresolutions.com/wp-content/uploads/2014/08/bnr-1.png">
+<a target="_blank" href="https://shunjid.github.io"><img width="300" align="right" src="https://www.mastersoftwaresolutions.com/wp-content/uploads/2014/08/bnr-1.png">
 </a>
 
 # About Me
