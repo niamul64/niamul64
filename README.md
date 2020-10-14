@@ -13,6 +13,13 @@
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=niamul64&show_icons=true&theme=synthwave" alt="Niamul Hasan" /> <h1>
+
+
+[Crash Course on Python by google](https://www.coursera.org/account/accomplishments/certificate/F53L2Z9AGZKZ)
+[Front-End Web UI Frameworks and Tools: Bootstrap 4 by The Hong University Of Science And Technology](https://www.coursera.org/account/accomplishments/certificate/YHW6MME3UEZ3)
+[HTML, CSS, and Javascript for Web Developers by Johns Hopkins University](hhttps://www.coursera.org/account/accomplishments/certificate/F3QEHCSR7AXD)
+
+
 <!-- theme=radical :: " dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula"
 **niamul64/niamul64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
