@@ -12,7 +12,7 @@
 👯 Now I’m looking to collaborate with a team that may help me to progress on my skill.
 
 
-<p align="center"> <img src="(https://github-readme-stats.vercel.app/api?username=niamul64&show_icons=true&theme=radical)" alt="Niamul Hasan" /> <h1>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=niamul64&show_icons=true&theme=radical" alt="Niamul Hasan" /> <h1>
 <!--
 **niamul64/niamul64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
