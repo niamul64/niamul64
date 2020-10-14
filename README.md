@@ -3,9 +3,9 @@
 <a target="_blank" href="https://shunjid.github.io"><img width="250" align="right" src="https://www.mastersoftwaresolutions.com/wp-content/uploads/2014/08/bnr-1.png">
 </a>
 
-# About Me
+#### About Me
 
-### 👋 Hi there, My name is Niamul Hasan from Dhaka, Bangladesh. I am 22 years old. I'm a Computer Programmer, Website Developer, Graphics Designer, System Analyst. I have profound knowledge in Problem Solving, system analysis and design and now practicing Machine Learning, Deep Learning and NLP. Currently, I am pursuing my Undergraduate Degree in CSE from University of Asia Pacific,Bangladesh. Love to work hard to gather new knowledge.
+👋 Hi there, My name is Niamul Hasan from Dhaka, Bangladesh. I am 22 years old. I'm a Computer Programmer, Website Developer, Graphics Designer, System Analyst. I have profound knowledge in Problem Solving, system analysis and design and now practicing Machine Learning, Deep Learning and NLP. Currently, I am pursuing my Undergraduate Degree in CSE from University of Asia Pacific,Bangladesh. Love to work hard to gather new knowledge.
 
 
 
