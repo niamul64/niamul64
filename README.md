@@ -1,6 +1,6 @@
 # Niamul Hasan
 #
-<a target="_blank" href="https://shunjid.github.io"><img width="300" align="right" src="https://www.mastersoftwaresolutions.com/wp-content/uploads/2014/08/bnr-1.png">
+<a target="_blank" href="https://shunjid.github.io"><img width="250" align="right" src="https://www.mastersoftwaresolutions.com/wp-content/uploads/2014/08/bnr-1.png">
 </a>
 
 # About Me
@@ -9,7 +9,7 @@
 
 
 
-👯 I’m looking to collaborate with a team that may help me to progress on my skill.
+👯 Now I’m looking to collaborate with a team that may help me to progress on my skill.
 <!--
 **niamul64/niamul64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
