@@ -26,6 +26,8 @@
 
  [HTML, CSS, and Javascript for Web Developers by Johns Hopkins University](https://www.coursera.org/account/accomplishments/certificate/F3QEHCSR7AXD)
 
+ [Web Application Technologies and Django](https://www.coursera.org/account/accomplishments/certificate/BQ3T4Z63V2WT)
+
 ##
 <!-- theme=radical :: " dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula"
 **niamul64/niamul64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
