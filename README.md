@@ -20,13 +20,14 @@
 
 ## Some Course Certificates
   [Crash Course on Python by google](https://www.coursera.org/account/accomplishments/certificate/F53L2Z9AGZKZ)
-
+<br>
  [Front-End Web UI Frameworks and Tools: Bootstrap 4 by The Hong University Of Science And Technology](https://www.coursera.org/account/accomplishments/certificate/YHW6MME3UEZ3)
-
+<br>
 
  [HTML, CSS, and Javascript for Web Developers by Johns Hopkins University](https://www.coursera.org/account/accomplishments/certificate/F3QEHCSR7AXD)
-
+<br>
  [Web Application Technologies and Django](https://www.coursera.org/account/accomplishments/certificate/BQ3T4Z63V2WT)
+ <br>
  [Building Web Applications in Django](https://www.coursera.org/account/accomplishments/certificate/WYPKV6NEA5UM)
 
 ##
