@@ -27,6 +27,7 @@
  [HTML, CSS, and Javascript for Web Developers by Johns Hopkins University](https://www.coursera.org/account/accomplishments/certificate/F3QEHCSR7AXD)
 
  [Web Application Technologies and Django](https://www.coursera.org/account/accomplishments/certificate/BQ3T4Z63V2WT)
+ [Building Web Applications in Django](https://www.coursera.org/account/accomplishments/certificate/WYPKV6NEA5UM)
 
 ##
 <!-- theme=radical :: " dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula"
