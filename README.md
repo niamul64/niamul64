@@ -19,16 +19,18 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=niamul64&show_icons=true&theme=synthwave" alt="Niamul Hasan" /> <h1>
 
 ## Some Course Certificates
-  [Crash Course on Python by google](https://www.coursera.org/account/accomplishments/certificate/F53L2Z9AGZKZ)
+[Crash Course on Python by google](https://www.coursera.org/account/accomplishments/certificate/F53L2Z9AGZKZ)
 <br>
- [Front-End Web UI Frameworks and Tools: Bootstrap 4 by The Hong University Of Science And Technology](https://www.coursera.org/account/accomplishments/certificate/YHW6MME3UEZ3)
+[Front-End Web UI Frameworks and Tools: Bootstrap 4 by The Hong University Of Science And Technology](https://www.coursera.org/account/accomplishments/certificate/YHW6MME3UEZ3)
 <br>
 
- [HTML, CSS, and Javascript for Web Developers by Johns Hopkins University](https://www.coursera.org/account/accomplishments/certificate/F3QEHCSR7AXD)
+[HTML, CSS, and Javascript for Web Developers by Johns Hopkins University](https://www.coursera.org/account/accomplishments/certificate/F3QEHCSR7AXD)
 <br>
- [Web Application Technologies and Django](https://www.coursera.org/account/accomplishments/certificate/BQ3T4Z63V2WT)
+[Web Application Technologies and Django](https://www.coursera.org/account/accomplishments/certificate/BQ3T4Z63V2WT)
  <br>
- [Building Web Applications in Django](https://www.coursera.org/account/accomplishments/certificate/WYPKV6NEA5UM)
+[Building Web Applications in Django](https://www.coursera.org/account/accomplishments/certificate/WYPKV6NEA5UM)
+ <br>
+[What is Data Science](https://www.coursera.org/account/accomplishments/certificate/H8JFGFKJB2HX)
 
 ##
 <!-- theme=radical :: " dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula"
