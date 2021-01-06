@@ -9,11 +9,20 @@
 
 #### About Me
 
-👋 Hi there, My name is Niamul Hasan from Dhaka, Bangladesh. I am 22 years old. I'm a Computer Programmer, Website Developer, Graphics Designer, System Analyst. I have profound knowledge in Problem Solving, system analysis and designing. Now practicing Machine Learning, Deep Learning and NLP. Currently, I am pursuing my Undergraduate Degree in CSE from University of Asia Pacific, Bangladesh. Love to work hard to gather new knowledge.
+👋 Currently, I am a student.(4th year).<br>
+Studying: Computer Science and Engineering, At University of Asia Pacific<br>
+Current CGPA: 3.88<br>
+I'm a Computer Programmer, Website Developer, Graphics Designer, System Analyst. I have profound
+knowledge in Problem Solving, System Analysis and Designing. Now practicing Machine Learning,
+Deep Learning and NLP. Currently, I am pursuing my Undergraduate Degree in CSE from University of
+Asia Pacific, Bangladesh. Earlier in my university life, I have participated in many competitive
+programming (ICPC). I always love to work hard to gather new knowledge.<br>
 
 
 
 👯 Now I’m looking to collaborate with a team that may help me to progress on my skill.
+
+### To Better understand, about my skills, please visit my Web-Site: [My Web-Site](https://niamul64.github.io/)
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=niamul64&show_icons=true&theme=synthwave" alt="Niamul Hasan" /> <h1>
