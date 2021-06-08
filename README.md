@@ -9,16 +9,13 @@
 
 #### About Me
 
-👋 Currently, I am a student.(4th year).<br>
-Studying: Computer Science and Engineering, At University of Asia Pacific<br>
-Current CGPA: 3.88<br>
-I'm a Computer Programmer, Website Developer, Graphics Designer, System Analyst. I have profound
+👋 
+Study: Computer Science and Engineering, At University of Asia Pacific<br>
+Current CGPA: 3.89<br>
+I'm a Computer Programmer, Website Developer(Backend with Django), Graphics Designer, System Analyst. I have profound
 knowledge in Problem Solving, System Analysis and Designing. Now practicing Machine Learning,
-Deep Learning and NLP. Currently, I am pursuing my Undergraduate Degree in CSE from University of
-Asia Pacific, Bangladesh. Earlier in my university life, I have participated in many competitive
+Deep Learning and NLP. Earlier in my university life, I have participated in many competitive
 programming (ICPC). I always love to work hard to gather new knowledge.<br>
-
-
 
 👯 Now I’m looking to collaborate with a team that may help me to progress on my skill.
 
