@@ -13,9 +13,9 @@
 Study: Computer Science and Engineering, At University of Asia Pacific<br>
 Current CGPA: 3.89<br>
 I'm a Computer Programmer, Website Developer(Backend with Django), Graphics Designer, System Analyst. I have profound
-knowledge in Problem Solving, System Analysis and Designing. Now practicing Machine Learning,
-Deep Learning and NLP. Earlier in my university life, I have participated in many competitive
-programming (ICPC). I always love to work hard to gather new knowledge.<br>
+knowledge in Problem Solving. Now practicing Machine Learning, Deep Learning and NLP. Earlier in my university life, I have participated in many competitive programming (ICPC). So, I have a good knowledge to do programming under pressure.
+<br>
+I always love to work hard to gather new knowledge.<br>
 
 👯 Now I’m looking to collaborate with a team that may help me to progress on my skill.
 
