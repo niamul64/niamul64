@@ -22,7 +22,19 @@ I always love to work hard to gather new knowledge.<br>
 ### To Better understand, about my skills, please visit my Web-Site: [My Web-Site](https://niamul64.github.io/)
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=niamul64&show_icons=true&theme=synthwave" alt="Niamul Hasan" /> <h1>
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/niamul64)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niamul64)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=niamul64&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/niamul64)  
+
+
+
 
 ## Some Course Certificates
 [Crash Course on Python by google](https://www.coursera.org/account/accomplishments/certificate/F53L2Z9AGZKZ)
