@@ -24,7 +24,7 @@ I always love to work hard to gather new knowledge.<br>
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niamul64)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=niamul64&show_icons=true)  
 
