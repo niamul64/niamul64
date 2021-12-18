@@ -2,10 +2,7 @@
 </a>
 
 # Niamul Hasan
-[![LinkedIn ](https://www.linkedin.com/in/niamul-hasan-b74489118/)
-[![Website](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=html&logoColor=ffffff)](https://niamul64.github.io/)
-
-[![Facebook](https://www.facebook.com/mn.hr.37/](https://www.facebook.com/mn.hr.37/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/niamul-hasan-b74489118/)
 
 #### About Me
 
