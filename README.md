@@ -3,6 +3,8 @@
 
 # Niamul Hasan
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/niamul-hasan-b74489118/)
+[![WebSite](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https://niamul64.github.io/)
+[![Facebook]](https://www.facebook.com/mn.hr.37/)
 
 #### About Me
 
