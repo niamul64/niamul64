@@ -2,10 +2,10 @@
 </a>
 
 # Niamul Hasan
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/niamul-hassan-b74489118/)
+[![LinkedIn ](https://www.linkedin.com/in/niamul-hasan-b74489118/)
 [![Website](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=html&logoColor=ffffff)](https://niamul64.github.io/)
 
-[![Facebook](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mn.hr.37/)
+[![Facebook](https://www.facebook.com/mn.hr.37/](https://www.facebook.com/mn.hr.37/)
 
 #### About Me
 
