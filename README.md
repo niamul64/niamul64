@@ -10,7 +10,7 @@
 
 👋 
 Study: Computer Science and Engineering, At University of Asia Pacific<br>
-CGPA: 3.89<br>
+CGPA: 3.88<br>
 I'm a Computer Programmer, Website Developer(Backend with Django), Graphics Designer, System Analyst.I enjoy developing web applications using Django. I have profound
 knowledge in Problem Solving. Now practicing Machine Learning, Deep Learning. Earlier in my university life, I have participated in many competitive programming (ICPC). So, I have a good knowledge to do programming under pressure.
 <br>
