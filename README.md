@@ -1,4 +1,4 @@
-<a target="_blank" href="https://shunjid.github.io"><img width="650" align="right" src="https://github.com/niamul64/niamul64/blob/main/Capture.JPG">
+<a target="_blank" href="https://github.com/niamul64/niamul64/blob/main/Capture.JPG"><img width="650" align="right" src="https://github.com/niamul64/niamul64/blob/main/Capture.JPG">
 </a>
 
 # Niamul Hasan
