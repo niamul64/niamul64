@@ -1,4 +1,4 @@
-<a target="_blank" href="https://shunjid.github.io"><img width="250" align="right" src="https://www.mastersoftwaresolutions.com/wp-content/uploads/2014/08/bnr-1.png">
+<a target="_blank" href="https://shunjid.github.io"><img width="250" align="right" src="https://github.com/niamul64/niamul64/blob/main/Capture.JPG">
 </a>
 
 # Niamul Hasan
