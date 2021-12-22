@@ -3,8 +3,8 @@
 
 # Niamul Hasan
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/niamul-hasan-b74489118/) 
-[![WebSite] Website](https://niamul64.github.io/)
-[![Facebook] Facebook](https://www.facebook.com/mn.hr.37/)
+[Website](https://niamul64.github.io/)
+[Facebook](https://www.facebook.com/mn.hr.37/)
 <p><a href="mailto: 17201026@uap-bd.edu">Email: 17201026@uap-bd.edu</a></p> 
 
 #### About Me
