@@ -3,14 +3,15 @@
 
 # Niamul Hasan
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/niamul-hasan-b74489118/) <br>
-[![WebSite]()](https://niamul64.github.io/)<br>
-[![Facebook]()](https://www.facebook.com/mn.hr.37/)<br>
+[![WebSite](https://img.icons8.com/pastel-glyph/64/000000/domain.png)](https://niamul64.github.io/)<br>
+[![Facebook](http://i.imgur.com/P3YfQoD.png)](https://www.facebook.com/mn.hr.37/)<br>
+<p><a href="mailto: 17201026@uap-bd.edu">email: 17201026@uap-bd.edu</a></p> 
 
 #### About Me
 
 👋 
 Study: Computer Science and Engineering, At University of Asia Pacific<br>
-CGPA: 3.88<br>
+CGPA: 3.89<br>
 I'm a Computer Programmer, Website Developer(Backend with Django), Graphics Designer, System Analyst.I enjoy developing web applications using Django. I have profound
 knowledge in Problem Solving. Now practicing Machine Learning, Deep Learning. Earlier in my university life, I have participated in many competitive programming (ICPC). So, I have a good knowledge to do programming under pressure.
 <br>
