@@ -1,9 +1,10 @@
-<a target="_blank" href="https://github.com/niamul64/niamul64/blob/main/Capture.JPG"><img width="890" align="right" src="https://github.com/niamul64/niamul64/blob/main/Capture.JPG">
-</a>
+<a target="_blank" href="https://github.com/niamul64/niamul64/blob/main/Capture.JPG"><img width="890" align="right" src="https://github.com/niamul64/niamul64/blob/main/Capture.JPG"></a>
+
 <br>
 
 # Niamul Hasan
 #### Programmer(Python3) | Web developer(Django) | App Developer(react-native)
+<hr>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/niamul-hasan-b74489118/) 
 [Website](https://niamul64.github.io/)
