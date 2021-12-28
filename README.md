@@ -3,7 +3,7 @@
 <br>
 
 ## Hi, I am Niamul Hasan. 
-#### I am very proficient in the Django framework. (Can work with Django_REST_FrameWorks)
+#### I am very proficient in the Django framework. (Can work with Django_REST_API)
 ##### Programmer(Python3) | Web developer(Django) | App Developer(react-native)
 <hr>
 
@@ -29,17 +29,19 @@ I always love to work hard to gather new knowledge.<br>
 
 ```
 {
-   "Proficient": ["Python3", "Django", "SQL", "RDMS", "Selenium with python3", "C", "C++","HTML", "CSS", "Dart" , "Java"],
+   "Proficient":  ["Python3", "Django", "SQL", "RDMS", "Selenium with python3",
+                  "C", "C++","HTML", "CSS", "Dart" , "Java"],
+                  
    "Familiar with": ["JavaScript", "React" ],
-   "Backend Web development": ["Django: Can work with Django REST FrameWork"],
-   "Database": ["MySql","MS SQL Server", "Sqlite3"],
-   "AI framework":["Keras","Scikit-learn","PySpark","Tensorflow"],
    
-   "Modules & Library":["Pandas","Numpy","Scipy","Matplotlib" ],
+   "Backend Web development": ["Django: Can work with Django REST API"],
+   "Database":                ["MySql", "MS SQL Server", "Sqlite3"],
+   "AI framework":            ["Keras","Scikit-learn","PySpark","Tensorflow"],
+   "Modules & Library":       ["Pandas","Numpy","Scipy","Matplotlib" ],
                           
-   "Machine Learning Algorithms/ Deep Learning ": ["LinearRegression","LogisticRegression","KNeighborsRegressor","DecisionTree",
-                                                         "SVM","KNN","Naive Bayes", "CNN", "VGG16", "Resnet50" , "Inception V3",
-                                                          "K-means","Model Validation",]
+   "Machine Learning Algorithms/ Deep Learning ": ["LinearRegression","LogisticRegression","KNeighborsRegressor",
+                                                      "SVM","KNN","Naive Bayes", "CNN", "VGG16", "Resnet50" ,
+                                                       "K-means","Model Validation", "DecisionTree" , "Inception V3"]
 }
 ```
 
