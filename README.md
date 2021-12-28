@@ -1,4 +1,4 @@
-<a target="_blank" href="https://github.com/niamul64/niamul64/blob/main/Capture.JPG"><img width="890" align="right" src="https://github.com/niamul64/niamul64/blob/main/Capture.JPG"></a>
+<a target="_blank" href="https://github.com/niamul64/niamul64/blob/main/Capture.JPG"><img width="890" src="https://github.com/niamul64/niamul64/blob/main/Capture.JPG"></a>
 
 <br>
 
