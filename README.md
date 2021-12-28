@@ -77,4 +77,4 @@ I always love to work hard to gather new knowledge.<br>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=niamul64)  
 
-![GitHub metrics](https://metrics.lecoq.io/niamul64)  
+
