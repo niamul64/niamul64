@@ -48,9 +48,9 @@ I always love to work hard to gather new knowledge.<br>
 
 
 👯 Now I’m looking to collaborate with a team that may help me to progress on my skill.
-- 🔭 I’m currently working on Open to work 
+- 🔭 I’m currently Open to work 
 - 🌱 I’m currently learning Javascript /Machine Learning / Deep Learning 
-- 👯 I’m looking to collaborate on Django Backend Team 
+- 👯 I’m looking to collaborate with Django Backend Team 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=niamul64&show_icons=true)  
