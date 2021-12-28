@@ -2,7 +2,7 @@
 
 <br>
 
-# Niamul Hasan
+## Hi, I am Niamul Hasan. I am very proficient in the Django framework. (Can work with Django_REST_FrameWorks)
 #### Programmer(Python3) | Web developer(Django) | App Developer(react-native)
 <hr>
 
@@ -15,17 +15,16 @@
 
 ### About Me:
 <br>
-Study: (BSc E.) Computer Science and Engineering (University of Asia Pacific) <br> CGPA: 3.89  <br>
+Study: (BSc E.) Computer Science and Engineering <br> (University of Asia Pacific) <br> CGPA: 3.89  <br>
 I'm a Computer Programmer, Website Developer(Backend, Django), Graphics Designer. I enjoy developing web applications using Django. I have profound knowledge in Problem Solving. Now practicing Machine Learning, Deep Learning. Earlier in my university life, I have participated in many competitive programming (ICPC). So, I have a good knowledge to do programming under pressure. I always love to work hard to gather new knowledge.
 <br>
 I always love to work hard to gather new knowledge.<br>
 
 <hr>
 
-## {...} My Stack
+## My Skills:
 
 ### To Better understand, about my skills, please visit my Web-Site: [My Web-Site](https://niamul64.github.io/)
-## I am very proficient in the Django framework.(Can work with Django_REST_FrameWorks)
 
 ```
 {
