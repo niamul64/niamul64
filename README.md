@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Niamul Hasan
 #### Programmer(Python3) | Web developer(Django) | App Developer(react-native)
-![Programmer(Python3) | Web developer(Django) | App Developer(react-native)](https://raw.githubusercontent.com/niamul64/niamul64/main/Capture.JPG)
-
+![Programmer(Python3) | Web developer(Django) | App Developer(react-native)]
 <br>
 <hr>
 
