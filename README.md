@@ -3,13 +3,16 @@
 ![Programmer(Python3) | Web developer(Django) | App Developer(react-native)](https://raw.githubusercontent.com/niamul64/niamul64/main/Capture.JPG)
 
 <br>
+<hr>
+
 ## ABOUT ME:
+<br>
 Study: (BSc E.) Computer Science and Engineering (University of Asia Pacific)
 CGPA: 3.89
 I'm a Computer Programmer, Website Developer(Backend, Django), Graphics Designer. I enjoy developing web applications using Django. I have profound knowledge in Problem Solving. Now practicing Machine Learning, Deep Learning. Earlier in my university life, I have participated in many competitive programming (ICPC). So, I have a good knowledge to do programming under pressure.
 I always love to work hard to gather new knowledge.
 
-
+<hr>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/niamul64)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/niamul-hasan-b74489118//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mn.hr.37/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://niamul64.github.io/)  
 
