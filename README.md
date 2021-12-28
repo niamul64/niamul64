@@ -2,8 +2,9 @@
 
 <br>
 
-## Hi, I am Niamul Hasan. I am very proficient in the Django framework. (Can work with Django_REST_FrameWorks)
-#### Programmer(Python3) | Web developer(Django) | App Developer(react-native)
+## Hi, I am Niamul Hasan. 
+#### I am very proficient in the Django framework. (Can work with Django_REST_FrameWorks)
+##### Programmer(Python3) | Web developer(Django) | App Developer(react-native)
 <hr>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/niamul-hasan-b74489118/) 
