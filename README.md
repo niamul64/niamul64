@@ -2,6 +2,8 @@
 #### Programmer(Python3) | Web developer(Django) | App Developer(react-native)
 ![Programmer(Python3) | Web developer(Django) | App Developer(react-native)](https://raw.githubusercontent.com/niamul64/niamul64/main/Capture.JPG)
 
+<br>
+## ABOUT ME:
 Study: (BSc E.) Computer Science and Engineering (University of Asia Pacific)
 CGPA: 3.89
 I'm a Computer Programmer, Website Developer(Backend, Django), Graphics Designer. I enjoy developing web applications using Django. I have profound knowledge in Problem Solving. Now practicing Machine Learning, Deep Learning. Earlier in my university life, I have participated in many competitive programming (ICPC). So, I have a good knowledge to do programming under pressure.
