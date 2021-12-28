@@ -13,30 +13,49 @@
 
 <hr>
 
-### About Me
-
+### About Me:
 <br>
-
-Study: (BSc E.) Computer Science and Engineering (University of Asia Pacific) CGPA: 3.89 I'm a Computer Programmer, Website Developer(Backend, Django), Graphics Designer. I enjoy developing web applications using Django. I have profound knowledge in Problem Solving. Now practicing Machine Learning, Deep Learning. Earlier in my university life, I have participated in many competitive programming (ICPC). So, I have a good knowledge to do programming under pressure. I always love to work hard to gather new knowledge.
+Study: (BSc E.) Computer Science and Engineering (University of Asia Pacific) <br> CGPA: 3.89  <br>
+I'm a Computer Programmer, Website Developer(Backend, Django), Graphics Designer. I enjoy developing web applications using Django. I have profound knowledge in Problem Solving. Now practicing Machine Learning, Deep Learning. Earlier in my university life, I have participated in many competitive programming (ICPC). So, I have a good knowledge to do programming under pressure. I always love to work hard to gather new knowledge.
 <br>
 I always love to work hard to gather new knowledge.<br>
+
 <hr>
 
-👯 Now I’m looking to collaborate with a team that may help me to progress on my skill.
+## {...} My Stack
 
 ### To Better understand, about my skills, please visit my Web-Site: [My Web-Site](https://niamul64.github.io/)
+## I am very proficient in the Django framework.(Can work with Django_REST_FrameWorks)
+
+```
+{
+   "Proficient": ["Python3", "Django", "SQL", "RDMS", "Selenium with python3", "C", "C++","HTML", "CSS", "Dart" , "Java"],
+   "Familiar with": ["JavaScript", "React" ],
+   "Backend Web development": ["Django: Can work with Django REST FrameWork"],
+   "Database": ["MySql","MS SQL Server", "Sqlite3"],
+   "AI framework":["Keras","Scikit-learn","PySpark","Tensorflow"],
+   
+   "Modules & Library":["Pandas","Numpy","Scipy","Matplotlib" ],
+                          
+   "Machine Learning Algorithms/ Deep Learning ": ["LinearRegression","LogisticRegression","KNeighborsRegressor","DecisionTree",
+                                                         "SVM","KNN","Naive Bayes", "CNN", "VGG16", "Resnet50" , "Inception V3",
+                                                          "K-means","Model Validation",]
+}
+```
 
 
 
-
+👯 Now I’m looking to collaborate with a team that may help me to progress on my skill.
+- 🔭 I’m currently working on Open to work 
+- 🌱 I’m currently learning Javascript /Machine Learning / Deep Learning 
+- 👯 I’m looking to collaborate on Django Backend Team 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=niamul64&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/niamul64)  
 
-
-
+<hr>
 
 ## Some Course Certificates
 [Crash Course on Python by google](https://www.coursera.org/account/accomplishments/certificate/F53L2Z9AGZKZ)
@@ -53,17 +72,6 @@ I always love to work hard to gather new knowledge.<br>
 [What is Data Science](https://www.coursera.org/account/accomplishments/certificate/H8JFGFKJB2HX)
 
 ## 
-<!-- theme=radical :: " dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula"
-**niamul64/niamul64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
