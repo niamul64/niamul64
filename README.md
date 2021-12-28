@@ -9,12 +9,16 @@
 [Facebook](https://www.facebook.com/mn.hr.37/)
 <p><a href="mailto: 17201026@uap-bd.edu">Email: 17201026@uap-bd.edu</a></p> 
 
-<>
+<hr>
+
 ### About Me
+
 <br>
+
 Study: (BSc E.) Computer Science and Engineering (University of Asia Pacific) CGPA: 3.89 I'm a Computer Programmer, Website Developer(Backend, Django), Graphics Designer. I enjoy developing web applications using Django. I have profound knowledge in Problem Solving. Now practicing Machine Learning, Deep Learning. Earlier in my university life, I have participated in many competitive programming (ICPC). So, I have a good knowledge to do programming under pressure. I always love to work hard to gather new knowledge.
 <br>
 I always love to work hard to gather new knowledge.<br>
+<hr>
 
 👯 Now I’m looking to collaborate with a team that may help me to progress on my skill.
 
