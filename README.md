@@ -1,4 +1,4 @@
-<a target="_blank" href="https://github.com/niamul64/niamul64/blob/main/Capture.JPG"><img width="890" src="https://github.com/niamul64/niamul64/blob/main/Capture.JPG"></a>
+<a target="_blank" href="https://github.com/niamul64/niamul64/blob/main/Capture.JPG"><img width="890" src="Capture.JPG"></a>
 
 <br>
 
@@ -7,15 +7,14 @@
 ##### Programmer(Python3) | Web developer(Django) | App Developer(react-native)
 <hr>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/niamul-hasan-b74489118/) 
-[Website](https://niamul64.github.io/)
-[Facebook](https://www.facebook.com/mn.hr.37/)
-<p><a href="mailto: 17201026@uap-bd.edu">Email: 17201026@uap-bd.edu</a></p> 
+[![Linkedin](https://img.shields.io/badge/Niamul%20Hasan-Linked%20In-blue)](https://www.linkedin.com/in/niamul-hasan-b74489118/) &nbsp;
+[![Website](https://img.shields.io/badge/Niamul%20Hasan-WebSite-brightgreen) ](https://niamul64.github.io/) &nbsp;
+[![Facebook](https://img.shields.io/badge/Niamul%20Hasan-FaceBook-blue) ](https://www.facebook.com/mn.hr.37/) &nbsp;
+<h3><a href="mailto: 17201026@uap-bd.edu">Email: 17201026@uap-bd.edu</a></h3> 
 
 <hr>
 
 ### About Me:
-<br>
 Study: (BSc E.) Computer Science and Engineering <br> (University of Asia Pacific) <br> CGPA: 3.89  <br>
 I'm a Computer Programmer, Website Developer(Backend, Django), Graphics Designer. I enjoy developing web applications using Django. I have profound knowledge in Problem Solving. Now practicing Machine Learning, Deep Learning. Earlier in my university life, I have participated in many competitive programming (ICPC). So, I have a good knowledge to do programming under pressure.
 <br>
