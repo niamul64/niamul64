@@ -26,12 +26,12 @@ I'm always eager to put in extra effort to learn new things.
 
 ```
 {
-   "Proficient":  ["Python3", "Django", "SQL", "RDMS", "Selenium with python3", "C", "C++", 
-                                          "HTML", "CSS", 'Bootstrap'],
+   "Proficient":  ["Python3", "Django", "SQL", "RDMS", "Object Oriented Programming", "Selenium with python3", 
+                                           "C", "C++","HTML", "CSS", 'Bootstrap'],
                   
    "Improving":  ["JavaScript", "React", "React-Native"],
    
-   "Learned"  :  [ "Dart" , "Flutter", "Java", "Java-GUI", Unity3D, C# ],
+   "Learned"  :  [ "Dart" , "Flutter", "Java", "Java-GUI", "Unity3D", "C#" ],
 
    "Backend Web development": ["Django: Can work with Django REST API"],
    "Database":                ["MySql", "MS SQL Server", "Sqlite3"],
@@ -40,7 +40,7 @@ I'm always eager to put in extra effort to learn new things.
                           
    "Machine Learning Algorithms/ Deep Learning ": ["LinearRegression","LogisticRegression","KNeighborsRegressor",
     (Practicing)                                   "SVM","KNN","Naive Bayes", "CNN", "VGG16", "Resnet50" ,
-                                                   "K-means","Model Validation", "DecisionTree" , "Inception V3"]
+                                                  "K-means", "Model Validation", "DecisionTree" , "Inception V3"]
 }
 ```
 
