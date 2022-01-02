@@ -1,25 +1,23 @@
-<a target="_blank" href="https://github.com/niamul64/niamul64/blob/main/Capture.JPG"><img width="890" src="Capture.JPG"></a>
+<a target="_blank" href="https://github.com/niamul64/niamul64/blob/main/Capture.JPG"><img width="100%" src="Capture.JPG"></a>
 
 <br>
 
 ## Hi, I am Niamul Hasan. 
 #### I am very proficient in the Django framework. (Can work with Django_REST_API)
-##### Programmer(Python3) | Web developer(Django) | App Developer(react-native)
+#### Programmer(Python3) | Web developer(Django) | App Developer(React-Native)
 <hr>
 
-[![Linkedin](https://img.shields.io/badge/Niamul%20Hasan-Linked%20In-blue)](https://www.linkedin.com/in/niamul-hasan-b74489118/) &nbsp;
-[![Website](https://img.shields.io/badge/Niamul%20Hasan-WebSite-brightgreen) ](https://niamul64.github.io/) &nbsp;
+[![Linkedin](https://img.shields.io/badge/Niamul%20Hasan-Linked%20In-blue)](https://www.linkedin.com/in/niamul-hasan-b74489118/) &nbsp; &nbsp;
+[![Website](https://img.shields.io/badge/Niamul%20Hasan-WebSite-brightgreen) ](https://niamul64.github.io/) &nbsp; &nbsp;
 [![Facebook](https://img.shields.io/badge/Niamul%20Hasan-FaceBook-blue) ](https://www.facebook.com/mn.hr.37/) &nbsp;
-<h3><a href="mailto: 17201026@uap-bd.edu">Email: 17201026@uap-bd.edu</a></h3> 
-
+<h2><a href="mailto: 17201026@uap-bd.edu">Email: 17201026@uap-bd.edu</a></h2> 
 <hr>
 
 ### About Me:
-Study: (BSc E.) Computer Science and Engineering <br> (University of Asia Pacific) <br> CGPA: 3.89  <br>
-I'm a Computer Programmer, Website Developer(Backend, Django), Graphics Designer. I enjoy developing web applications using Django. I have profound knowledge in Problem Solving. Now practicing Machine Learning, Deep Learning. Earlier in my university life, I have participated in many competitive programming (ICPC). So, I have a good knowledge to do programming under pressure.
+Study: (BSc E.) Computer Science and Engineering; &nbsp; &nbsp; CGPA: 3.89 <br> (University of Asia Pacific)   <br>
+I'm a Computer Programmer, Website Developer(Backend, Django), Graphics Designer. I enjoy developing web applications using Django. I have profound knowledge in Problem Solving. Now, practicing Machine Learning, Deep Learning. Earlier in my university life, I have participated in many competitive programming (ICPC). So, I have a good knowledge to do programming under pressure.
 <br>
-I always love to work hard to gather new knowledge.<br>
-
+I'm always eager to put in extra effort to learn new things. 
 <hr>
 
 ## My Skills:
@@ -28,23 +26,23 @@ I always love to work hard to gather new knowledge.<br>
 
 ```
 {
-   "Proficient":  ["Python3", "Django", "SQL", "RDMS", "Selenium with python3",
-                  "C", "C++","HTML", "CSS", "Dart" , "Java"],
+   "Proficient":  ["Python3", "Django", "SQL", "RDMS", "Selenium with python3", "C", "C++", 
+                                          "HTML", "CSS", 'Bootstrap'],
                   
-   "Familiar with": ["JavaScript", "React" ],
+   "Improving":  ["JavaScript", "React", "React-Native"],
    
+   "Learned"  :  [ "Dart" , "Flutter", "Java", "Java-GUI", Unity3D, C# ],
+
    "Backend Web development": ["Django: Can work with Django REST API"],
    "Database":                ["MySql", "MS SQL Server", "Sqlite3"],
-   "AI framework":            ["Keras","Scikit-learn","PySpark","Tensorflow"],
+   "AI framework":            ["Keras", "Scikit-learn", "Tensorflow"],
    "Modules & Library":       ["Pandas","Numpy","Scipy","Matplotlib" ],
                           
    "Machine Learning Algorithms/ Deep Learning ": ["LinearRegression","LogisticRegression","KNeighborsRegressor",
-                                                      "SVM","KNN","Naive Bayes", "CNN", "VGG16", "Resnet50" ,
-                                                       "K-means","Model Validation", "DecisionTree" , "Inception V3"]
+    (Practicing)                                   "SVM","KNN","Naive Bayes", "CNN", "VGG16", "Resnet50" ,
+                                                   "K-means","Model Validation", "DecisionTree" , "Inception V3"]
 }
 ```
-
-
 
 👯 Now I’m looking to collaborate with a team that may help me to progress on my skill.
 - 🔭 I’m currently Open to work 
