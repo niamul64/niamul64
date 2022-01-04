@@ -11,7 +11,7 @@
 [![Website](https://img.shields.io/badge/Niamul%20Hasan-WebSite-brightgreen) ](https://niamul64.github.io/) &nbsp; &nbsp;
 [![Facebook](https://img.shields.io/badge/Niamul%20Hasan-FaceBook-blue) ](https://www.facebook.com/mn.hr.37/) &nbsp;
 <h2><a href="mailto: 17201026@uap-bd.edu">Email: 17201026@uap-bd.edu</a></h2> 
-<hr>
+
 
 ### About Me:
 Study: (BSc E.) Computer Science and Engineering; &nbsp; &nbsp; CGPA: 3.89 <br> (University of Asia Pacific)   <br>
