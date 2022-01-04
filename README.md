@@ -1,6 +1,5 @@
 <a target="_blank" href="https://github.com/niamul64/niamul64/blob/main/Capture.JPG"><img width="100%" src="Capture.JPG"></a>
 
-<br>
 <a target="_blank" href="https://github.com/niamul64/niamul64/blob/main/batch%20topper%20with%20title.png"><img width="150px" align="right" src="batch topper with title.png"></a>
 
 ## Hi, I am Niamul Hasan. 
