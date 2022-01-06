@@ -16,7 +16,7 @@
 ### About Me:
 Study: (BSc E.) Computer Science and Engineering; &nbsp; &nbsp; CGPA: 3.89 <br> (University of Asia Pacific)   <br>
 I'm a Computer Programmer, Website Developer(Backend, Django), Graphics Designer. I enjoy developing web applications using Django. I have profound knowledge of Problem Solving. Earlier in my university life, I have participated in many competitive programming (ICPC). So, I have a good ability to do programming under pressure. <br>
-I'm now working on Machine Learning and Deep Learning. I'm always eager to put in extra effort to learn new things. 
+I'm now practicing Machine Learning and Deep Learning. I'm always eager to put in extra effort to learn new things. 
 <hr>
 
 ## My Skills:
