@@ -51,9 +51,9 @@ I'm always eager to put in extra effort to learn new things.
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=niamul64&show_icons=true)  
-
-<p> <img src="https://komarev.com/ghpvc/?username=niamul64" alt="Niamul Hasan" /> </p>
 ![Profile views](https://gpvc.arturio.dev/niamul64)  
+<p> <img src="https://komarev.com/ghpvc/?username=niamul64" alt="Niamul Hasan" /> </p>
+
 
 <hr>
 
