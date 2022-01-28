@@ -16,7 +16,7 @@
 ### About Me:
 Study: (BSc E.) Computer Science and Engineering; &nbsp; &nbsp; CGPA: 3.89 <br> (University of Asia Pacific)   <br>
 I'm a Computer Programmer, Website Developer (Backend, Django). I enjoy working with Django, Python3, and React.js. I am very proficient in the Django framework. I Can work with Django_REST_API. In addition, I am well-versed in SQL, relational databases and object-oriented programming. I have profound knowledge of Problem Solving. Earlier in my university life, I have participated in many competitive programming (ICPC). So, I have a good ability to do programming under pressure.
-I'm currently experimenting with Machine Learning and Deep Learning. I'm always eager to put in extra effort to gather new knowledge.
+I'm currently practicing Machine Learning and Deep Learning. I'm always eager to put in extra effort to gather new knowledge.
 <hr>
 
 ## My Skills:
