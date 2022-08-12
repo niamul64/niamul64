@@ -9,7 +9,7 @@
 
 [![Linkedin](https://img.shields.io/badge/Niamul%20Hasan-Linked%20In-blue)](https://www.linkedin.com/in/niamul-hasan-b74489118/) &nbsp; &nbsp;
 [![Website](https://img.shields.io/badge/Niamul%20Hasan-WebSite-brightgreen) ](https://niamul64.github.io/) &nbsp; &nbsp;
-[![Facebook](https://img.shields.io/badge/Niamul%20Hasan-FaceBook-blue) ](https://www.facebook.com/mn.hr.37/) &nbsp;
+[![Facebook](https://img.shields.io/badge/Niamul%20Hasan-FaceBook-blue) ](https://www.facebook.com/profile.php?id=100084155330105) &nbsp;
 <h2><a href="mailto: 17201026@uap-bd.edu">Email: 17201026@uap-bd.edu</a></h2> 
 
 
