@@ -3,7 +3,7 @@
 <a target="_blank" href="https://github.com/niamul64/niamul64/blob/main/batch%20topper%20with%20title.png"><img width="150px" align="right" src="batch topper with title.png"></a>
 
 ## Hi, I am Niamul Hasan. 
-#### I am very proficient in the Django framework. (Can work with Django_REST_API)
+#### I am very proficient in the Django framework. (Can work on Django_REST_API)
 #### Programmer(Python3) | Web developer(Django) | App Developer(React-Native)
 <hr>
 
