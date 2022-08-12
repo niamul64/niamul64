@@ -15,8 +15,7 @@
 
 ### About Me:
 Study: (BSc E.) Computer Science and Engineering; &nbsp; &nbsp; CGPA: 3.89 <br> (University of Asia Pacific)   <br>
-I'm a Computer Programmer, Website Developer (Backend, Django). I enjoy working with Django, Python3, and React.js. I am very proficient in the Django framework. I Can work with Django_REST_API. In addition, I am well-versed in SQL, relational databases and object-oriented programming. I have profound knowledge of Problem Solving. Earlier in my university life, I have participated in many competitive programming (ICPC). So, I have a good ability to do programming under pressure.
-I'm currently practicing Machine Learning and Deep Learning. I'm always eager to put in extra effort to gather new knowledge.
+I'm a Computer Programmer, Website Developer. I enjoy working with Django, Python3, and React.js. I am very proficient in the Django framework. In addition, I am well-versed in SQL, relational databases and object-oriented programming. I have profound knowledge of Problem Solving. Earlier in my university life, I have participated in many competitive programming (ICPC). So, I have a good ability to do programming under pressure.
 <hr>
 
 ## My Skills:
@@ -25,14 +24,14 @@ I'm currently practicing Machine Learning and Deep Learning. I'm always eager to
 
 ```
 {
-   "Proficient":  ["Python3", "Django", "SQL", "RDMS", "Object Oriented Programming", "Selenium with python3", 
-                                           "C", "C++","HTML", "CSS", 'Bootstrap'],
+   "Proficient":  ["Python3", "Django", "PHP", "Codeigniter", "JavaScript", "SQL", "RDMS", "Object Oriented Programming", "Selenium with python3", 
+                                           "C", "C++","HTML", "CSS", "Bootstrap"],
                   
-   "Improving":  ["JavaScript", "React", "React-Native"],
+   "Improving":  [ "React", "React-Native"],
    
    "Learned"  :  [ "Dart" , "Flutter", "Java", "Java-GUI", "Unity3D", "C#" ],
 
-   "Backend Web development": ["Django: Can work with Django REST API"],
+   "Backend Web development": ["Python-Django", "PHP-Codeigniter", ],
    "Database":                ["MySql", "MS SQL Server", "Sqlite3"],
    "AI framework":            ["Keras", "Scikit-learn", "Tensorflow"],
    "Modules & Library":       ["Pandas","Numpy","Scipy","Matplotlib" ],
